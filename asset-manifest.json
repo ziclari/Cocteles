@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Cocteles/static/css/main.6db62a4a.css",
+    "main.css": "/Cocteles/static/css/main.f8bb6258.css",
     "main.js": "/Cocteles/static/js/main.d4fe0f29.js",
     "static/js/453.8a8c30ff.chunk.js": "/Cocteles/static/js/453.8a8c30ff.chunk.js",
     "static/media/cocteles.jpg": "/Cocteles/static/media/cocteles.f292b0bb2e8fc01f8620.jpg",
@@ -12,12 +12,12 @@
     "static/media/gal2.jpg": "/Cocteles/static/media/gal2.72658f8ebe0df769a6ac.jpg",
     "static/media/gal4.jpeg": "/Cocteles/static/media/gal4.b5129d50f09ee169f200.jpeg",
     "index.html": "/Cocteles/index.html",
-    "main.6db62a4a.css.map": "/Cocteles/static/css/main.6db62a4a.css.map",
+    "main.f8bb6258.css.map": "/Cocteles/static/css/main.f8bb6258.css.map",
     "main.d4fe0f29.js.map": "/Cocteles/static/js/main.d4fe0f29.js.map",
     "453.8a8c30ff.chunk.js.map": "/Cocteles/static/js/453.8a8c30ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6db62a4a.css",
+    "static/css/main.f8bb6258.css",
     "static/js/main.d4fe0f29.js"
   ]
 }
