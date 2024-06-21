@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cocteles/static/css/main.6db62a4a.css",
+    "main.js": "/Cocteles/static/js/main.d4fe0f29.js",
+    "static/js/453.8a8c30ff.chunk.js": "/Cocteles/static/js/453.8a8c30ff.chunk.js",
+    "static/media/cocteles.jpg": "/Cocteles/static/media/cocteles.f292b0bb2e8fc01f8620.jpg",
+    "static/media/gal3.jpg": "/Cocteles/static/media/gal3.d3d6d24371125bbd003d.jpg",
+    "static/media/gal1.jpg": "/Cocteles/static/media/gal1.fd78256b0e70338d9e41.jpg",
+    "static/media/playa.jpg": "/Cocteles/static/media/playa.9d8ebcb32518964f46d7.jpg",
+    "static/media/colada.png": "/Cocteles/static/media/colada.2a177e3bbfabf69db5b6.png",
+    "static/media/pina.png": "/Cocteles/static/media/pina.e731404861638c7e4e6e.png",
+    "static/media/gal2.jpg": "/Cocteles/static/media/gal2.72658f8ebe0df769a6ac.jpg",
+    "static/media/gal4.jpeg": "/Cocteles/static/media/gal4.b5129d50f09ee169f200.jpeg",
+    "index.html": "/Cocteles/index.html",
+    "main.6db62a4a.css.map": "/Cocteles/static/css/main.6db62a4a.css.map",
+    "main.d4fe0f29.js.map": "/Cocteles/static/js/main.d4fe0f29.js.map",
+    "453.8a8c30ff.chunk.js.map": "/Cocteles/static/js/453.8a8c30ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6db62a4a.css",
+    "static/js/main.d4fe0f29.js"
+  ]
+}
